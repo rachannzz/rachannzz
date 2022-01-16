@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **rachanphuyal15@gmail.com**
 
-- ⚡ Fun fact **I enjoy learninig new tech related materials.**
+- ⚡ Fun fact **I enjoy learning new tech related materials.**
 
 ## 🚀 Languages and Tools:
 
