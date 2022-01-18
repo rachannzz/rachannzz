@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently learning python.
+- 🔭 I’m currently studying BCA.
 
-- 🌱 I’m currently learning **object oriented programming.**
+- 🌱 I’m currently learning **object oriented programming in c++ and Python .**
 
 - 📫 How to reach me **rachanphuyal15@gmail.com**
 
