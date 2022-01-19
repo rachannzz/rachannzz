@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently studying **Bachleor In Computer Application**BCA.
+- 🔭 I’m currently studying **Bachleor In Computer Application** (BCA).
 
 - 🌱 I’m currently learning **object oriented programming in c++ and Python .**
 
