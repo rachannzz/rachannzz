@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://media.wired.com/photos/5cc244c9af643e2f373ebb28/191:100/w_2400,h_1256,c_limit/Coding-Becomes-Criminal.jpg" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://media.wired.com/photos/5cc244c9af643e2f373ebb28/191:100/w_2400,h_1256,c_limit/Coding-Becomes-Criminal.jpg" width="30px">, I'm Rachan</h1>
 <h3 align="center">I'm a passionate and wannabe Developer from Nepal.</h3>
