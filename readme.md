@@ -26,7 +26,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on ** React,Nodejs,Expressjs,MongoDB,**
+- 🔭 I’m currently working on ** React,Nodejs,Expressjs,MongoDB**
 
 
 
