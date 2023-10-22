@@ -1,66 +1,109 @@
-<a href="#"><img width="100%" height="auto" src="https://media.wired.com/photos/5cc244c9af643e2f373ebb28/191:100/w_2400,h_1256,c_limit/Coding-Becomes-Criminal.jpg" height="175px"/></a>
 
-<h1 align="center"> I'm Rachan</h1>
-<h3 align="center">I'm a passionate and wannabe Developer from Nepal.</h3>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Rachan</h1></summary>
+  </ul>
+</div>
 
 
-## 🙋‍♂️ About Me
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
-- 🔭 I’m currently studying **Bachleor In Computer Application** (BCA).
 
-- 🌱 I’m currently learning **object oriented programming in c++ and Python .**
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+  </ul>
+</div>
 
-- 📫 How to reach me **rachanphuyal15@gmail.com**
 
-- ⚡ Fun fact **I enjoy learning new tech related materials.**
+<!--Intro start-->
+- 🔭 I’m currently working on ** React,Nodejs,Expressjs,MongoDB,**
 
-## 🚀 Languages and Tools:
 
-<p align="left"> 
-    <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    
-</p>
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
+<!--Intro end-->
 
+
+
+<!--- stats & Trophy (start) -->
 <p align="center">
-    <a href="https://github.com/rachannzz/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="rachannzz streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rachannzz&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+<!--- trophy (start) -->
+
+<!--- trophy (start) -->
+
+
+</p>        
+<!--- stats (end) -->
+
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,c,cpp,css,express,figma,github,html,js,linux,md,mongodb,mysql,nodejs,postman,py,react,tailwind,ts,vscode&perline=14" />
+  </a>
 </p>
 
-## 📊 My Github Stats
 
-  <br/>
-    <a href="https://github.com/rachannzz/github-readme-stats"><img alt="rachannzz Github Stats" src="https://github-readme-stats.vercel.app/api?username=rachannzz&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/rachannzz/github-readme-stats"><img alt="rachannzz Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachannzz&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
 
-
-<br/>
-<br/>
-
-<a href="https://github.com/rachannzz/github-readme-activity-graph"><img alt="rachannzz Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rachannzz&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
-
-
-
-
-
-
-
+<!--icons and links-->
+<p align="center">
+<a href="https://www.linkedin.com/in/rachannzz/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://twitter.com/rachan_phuyal" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
+  
 </p>
 
-## ❤ Views and Followers
-<a href="https://github.com/rachannzz/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=rachannzz">
-</a>
-<a href="https://github.com/rachannzz?tab=followers"><img src="https://img.shields.io/github/followers/rachannzz?label=Followers&style=social" alt="GitHub Badge"></a>
+
+<!--profile visit count-->
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
+  
+</div>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+----------------------------------------------------------------------
+
+
