@@ -1,104 +1,18 @@
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There,%20I'm%20Rachan%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Perpetually%20Confused,%20Perpetually%20Curious&descAlignY=58&descSize=18" width="100%"/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Confusion+is+part+of+Programming;MERN+Stack+Developer;Always+Learning+Something+New;Turning+Coffee+Into+Code+%E2%98%95" alt="Typing SVG" /> </div> <br> <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" width="100%"/> <br>
+🚀 About Me
+<table align="center"> <tr> <td width="100%">
+🔭 Currently building projects with React, Node.js, Express.js & MongoDB
+🌱 Always exploring new tools across the JavaScript ecosystem
+💡 Believe that every bug is just a lesson wearing a disguise
+📫 Reach me on LinkedIn or Twitter — links below!
+</td> </tr> </table> <br>
+📊 GitHub Stats
+<p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rachannzz&theme=radical&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF" /> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachannzz&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58A6FF" /> </p> <p align="center"> <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=rachannzz&theme=radical&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="streak stats" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=rachannzz&theme=react-dark&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff" width="90%"/> </p> <br>
+🛠️ Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,bootstrap,git,github,linux,vscode,c&theme=dark&perline=13" /> </p> <br>
+🤝 Connect With Me
+<p align="center"> <a href="https://www.linkedin.com/in/rachannzz/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://twitter.com/rachan_phuyal" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/> </a> </p> <br> <div align="center">
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+Show Image
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Rachan</h1></summary>
-  </ul>
-</div>
-
-
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
-  </ul>
-</div>
-
-
-<!--Intro start-->
-- 🔭 I’m currently working on **React,Nodejs,Expressjs,MongoDB**
-
-
-
-<!--Intro end-->
-
-
-
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=rachannzz&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rachannzz&theme=dark&hide_border=false" /> 
-</td>
-
-
-
-  
-
-
-</table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-
-<!--- trophy (start) -->
-
-
-</p>        
-<!--- stats (end) -->
-
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Am Learning👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,c,css,express,github,html,js,linux,mongodb,nodejs,react,vscode&perline=14" />
-  </a>
-</p>
-
-
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
-
-<!--icons and links-->
-<p align="center">
-<a href="https://www.linkedin.com/in/rachannzz/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://twitter.com/rachan_phuyal" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
-  
-</p>
-
-
-<!--profile visit count-->
-
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-----------------------------------------------------------------------
-
-
+</div> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
