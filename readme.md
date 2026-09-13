@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a1f0a,100:001a00&height=230&section=header&text=rachan@github&fontSize=42&fontColor=00FF41&fontAlignY=42&animation=fadeIn&desc=~/networks%20~/linux%20~/security&descAlignY=62&descSize=18&descColor=00CC33" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:001a00,50:003300,75:001a00,100:000000&height=240&section=header&text=rachan@github&fontSize=44&fontColor=39FF14&fontAlignY=40&animation=twinkling&desc=~/networks%20~/linux%20~/security&descAlignY=62&descSize=18&descColor=00CC33" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%24+whoami;linux+%2F+networking+%2F+security+enthusiast;%24+curiosity+--recursive;still+compiling..." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=1000&color=39FF14&center=true&vCenter=true&width=620&lines=%24+whoami;linux+%2F+networking+%2F+security+enthusiast;%24+curiosity+--recursive+--verbose;still+compiling..." />
 
 </div>
 
@@ -35,15 +35,19 @@ _)      \.___.,|     .'
 
 <div align="center">
 
+```bash
+guest@rachan:~$ ls ./skills/
+```
+
 <img src="https://skillicons.dev/icons?i=linux,ubuntu,cisco,python,docker,aws,git,github,vscode&theme=dark&perline=9" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/-nmap-000000?style=flat-square&logo=nmap&logoColor=00FF41"/>
-<img src="https://img.shields.io/badge/-wireshark-000000?style=flat-square&logo=wireshark&logoColor=00FF41"/>
-<img src="https://img.shields.io/badge/-tryhackme-000000?style=flat-square&logo=tryhackme&logoColor=00FF41"/>
-<img src="https://img.shields.io/badge/-bash-000000?style=flat-square&logo=gnubash&logoColor=00FF41"/>
-<img src="https://img.shields.io/badge/-vim-000000?style=flat-square&logo=vim&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/-nmap-000000?style=flat-square&logo=nmap&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/-wireshark-000000?style=flat-square&logo=wireshark&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/-tryhackme-000000?style=flat-square&logo=tryhackme&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/-bash-000000?style=flat-square&logo=gnubash&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/-vim-000000?style=flat-square&logo=vim&logoColor=39FF14"/>
 
 <br><br>
 
@@ -51,27 +55,48 @@ _)      \.___.,|     .'
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=rachannzz&show_icons=true&hide_border=true&theme=dark&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00CC33&border_radius=8" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rachannzz&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00CC33&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=00CC33&border_radius=8" height="165"/>
+```bash
+guest@rachan:~$ git log --stat --author=rachan
+```
+
+<img src="https://github-readme-stats.vercel.app/api?username=rachannzz&show_icons=true&hide_border=true&theme=dark&bg_color=000000&title_color=39FF14&icon_color=39FF14&text_color=00CC33&border_radius=8" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rachannzz&hide_border=true&background=000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=00CC33&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=00CC33&border_radius=8" height="165"/>
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rachannzz&bg_color=000000&color=00FF41&line=00FF41&point=FFFFFF&area=true&area_color=00FF41&hide_border=true&border_radius=8" width="97%"/>
+```bash
+guest@rachan:~$ cat ./languages.json | jq
+```
 
-<br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachannzz&layout=pie&hide_border=true&theme=dark&bg_color=000000&title_color=39FF14&text_color=00CC33&border_radius=8" height="220"/>
 
-</div>
+<br>
 
 ```bash
-guest@rachan:~$ cat contact.txt
+guest@rachan:~$ ./activity.sh --graph
 ```
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rachannzz&bg_color=000000&color=39FF14&line=39FF14&point=FFFFFF&area=true&area_color=39FF14&hide_border=true&border_radius=8" width="97%"/>
+
+<br>
+
+```bash
+guest@rachan:~$ ./trophies.sh --unlocked
+```
+
+<img src="https://github-profile-trophy.vercel.app/?username=rachannzz&theme=matrix&no-frame=true&column=7&margin-w=8&margin-h=8" width="97%"/>
+
+<br>
+
+```bash
+guest@rachan:~$ cat ./contact.txt
+```
+
 ```
 linkedin  ->  linkedin.com/in/rachannzz
 twitter   ->  twitter.com/rachan_phuyal
 github    ->  github.com/rachannzz
 ```
-
-<div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=rachannzz&style=flat-square&color=000000&label=connections+opened"/>
 
@@ -79,6 +104,6 @@ github    ->  github.com/rachannzz
 
 <sub>$ echo "one packet at a time" _</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a00,50:0a1f0a,100:000000&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:001a00,50:003300,75:001a00,100:000000&height=140&section=footer&animation=twinkling" width="100%"/>
 
 </div>
