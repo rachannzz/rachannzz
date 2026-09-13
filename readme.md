@@ -1,8 +1,49 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=rachan&fontSize=70&fontColor=00E5FF&animation=fadeIn&fontAlignY=42&desc=networks%20·%20linux%20·%20security&descAlignY=62&descSize=20&descColor=8892B0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a1f0a,100:001a00&height=230&section=header&text=rachan@github&fontSize=42&fontColor=00FF41&fontAlignY=42&animation=fadeIn&desc=~/networks%20~/linux%20~/security&descAlignY=62&descSize=18&descColor=00CC33" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=560&lines=curious+about+what's+under+the+hood;learning+by+breaking+things+on+purpose;packets+%3E+pixels;one+lab+at+a+time" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%24+whoami;linux+%2F+networking+%2F+security+enthusiast;%24+curiosity+--recursive;still+compiling..." />
+
+</div>
+
+<br>
+
+```bash
+guest@rachan:~$ neofetch --minimal
+```
+
+```
+        _nnnn_                      os        : learning.linux (rolling)
+       dGGGGMMb                     shell     : curiosity --interactive
+      @p~qp~~qMb                    focus     : networks · linux · security
+      M|@||@) M|                    uptime    : still booting knowledge
+      @,----.JM|                    packages  : nmap, wireshark, python, cisco
+     JS^\__/  qKL                   terminal  : breaks things on purpose
+    dZP        qKRb                 mindset   : ask "why" until it clicks
+   dZP          qKKb
+  fZP            SMMb
+  HZM            MMMM
+  FqM            MMMM
+__| ".        |\dS"qML
+|    `.       | `' \Zq
+_)      \.___.,|     .'
+\____   )MMMMMP|   .'
+     `-'       `--'
+```
+
+<br>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,cisco,python,docker,aws,git,github,vscode&theme=dark&perline=9" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/-nmap-000000?style=flat-square&logo=nmap&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/-wireshark-000000?style=flat-square&logo=wireshark&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/-tryhackme-000000?style=flat-square&logo=tryhackme&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/-bash-000000?style=flat-square&logo=gnubash&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/-vim-000000?style=flat-square&logo=vim&logoColor=00FF41"/>
 
 <br><br>
 
@@ -10,42 +51,34 @@
 
 <br>
 
-<p>
-<img src="https://img.shields.io/badge/-nmap-0F172A?style=for-the-badge&logo=nmap&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/-wireshark-0F172A?style=for-the-badge&logo=wireshark&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/-linux-0F172A?style=for-the-badge&logo=linux&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/-python-0F172A?style=for-the-badge&logo=python&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/-cisco-0F172A?style=for-the-badge&logo=cisco&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/-aws-0F172A?style=for-the-badge&logo=amazonaws&logoColor=00E5FF"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=rachannzz&show_icons=true&hide_border=true&theme=dark&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00CC33&border_radius=8" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rachannzz&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00CC33&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=00CC33&border_radius=8" height="165"/>
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,python,cisco,docker,aws,git,github,vscode&theme=dark&perline=9" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rachannzz&bg_color=000000&color=00FF41&line=00FF41&point=FFFFFF&area=true&area_color=00FF41&hide_border=true&border_radius=8" width="97%"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=rachannzz&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0F172A&title_color=00E5FF&icon_color=00E5FF&text_color=8892B0&border_radius=12" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rachannzz&hide_border=true&background=0F172A&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=8892B0&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8892B0&border_radius=12" height="165"/>
+</div>
 
-<br>
+```bash
+guest@rachan:~$ cat contact.txt
+```
+```
+linkedin  ->  linkedin.com/in/rachannzz
+twitter   ->  twitter.com/rachan_phuyal
+github    ->  github.com/rachannzz
+```
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rachannzz&theme=tokyo-night&bg_color=0F172A&color=00E5FF&line=00E5FF&point=E6EDF3&area=true&hide_border=true&border_radius=12" width="97%"/>
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=rachannzz&style=flat-square&color=000000&label=connections+opened"/>
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=rachannzz&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" width="97%"/>
+<sub>$ echo "one packet at a time" _</sub>
 
-<br><br>
-
-<a href="https://www.linkedin.com/in/rachannzz/"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/></a>
-<a href="https://twitter.com/rachan_phuyal"><img src="https://img.shields.io/badge/Twitter-0F172A?style=for-the-badge&logo=x&logoColor=00E5FF"/></a>
-<a href="https://github.com/rachannzz"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=00E5FF"/></a>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=rachannzz&style=for-the-badge&color=0F172A&label=PROFILE+VIEWS&labelColor=0F172A"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a00,50:0a1f0a,100:000000&height=120&section=footer" width="100%"/>
 
 </div>
