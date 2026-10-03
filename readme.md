@@ -14,6 +14,10 @@
 
 <img src="https://raw.githubusercontent.com/rachannzz/rachannzz/master/assets/divider.svg" width="80%"/>
 
+<img src="https://raw.githubusercontent.com/rachannzz/rachannzz/master/assets/boot.svg" width="760" alt="boot"/>
+
+<img src="https://raw.githubusercontent.com/rachannzz/rachannzz/master/assets/divider.svg" width="80%"/>
+
 <img src="https://raw.githubusercontent.com/rachannzz/rachannzz/master/assets/terminal.svg" width="760" alt="terminal"/>
 
 <img src="https://raw.githubusercontent.com/rachannzz/rachannzz/master/assets/divider.svg" width="80%"/>
@@ -21,6 +25,12 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3000&pause=600&color=8AFFC9&center=true&vCenter=true&width=500&lines=%2F%2F+network+topology+%E2%80%94+packets+in+flight" alt="topology"/>
 
 <img src="https://raw.githubusercontent.com/rachannzz/rachannzz/master/assets/network.svg" width="760" alt="network"/>
+
+<img src="https://raw.githubusercontent.com/rachannzz/rachannzz/master/assets/recon.svg" width="760" alt="recon"/>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/rachannzz/rachannzz/master/assets/traffic.svg" width="760" alt="traffic"/>
 
 <img src="https://raw.githubusercontent.com/rachannzz/rachannzz/master/assets/divider.svg" width="80%"/>
 
