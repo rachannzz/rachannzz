@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200" role="img" aria-label="Rachan — linux, networking, security">
+<style>
+:root{--fg:#e6edf3;--muted:#8b949e;--accent:#3fb9a8;--accent2:#58a6ff}
+@media (prefers-color-scheme: light){:root{--fg:#1f2328;--muted:#656d76;--accent:#1a7f74;--accent2:#0969da}}
+text{font-family:'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace}
+.name{font-size:46px;font-weight:700;fill:var(--fg);letter-spacing:1px}
+.prompt{font-size:22px;fill:var(--accent)}
+.word{font-size:22px;fill:var(--muted)}
+.cursor{fill:var(--accent2)}
+.rule{stroke:url(#grad);stroke-width:2;stroke-linecap:round;stroke-dasharray:420;stroke-dashoffset:420;animation:draw 1.6s .2s ease-out forwards}
+.dot{fill:var(--accent);animation:pulse 2.6s ease-in-out infinite;transform-origin:56px 120px}
+.name,.prompt{opacity:0;animation:fade .9s ease-out forwards}
+.prompt{animation-delay:.5s}
+@keyframes draw{to{stroke-dashoffset:0}}
+@keyframes fade{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+@keyframes pulse{0%,100%{opacity:.35;transform:scale(1)}50%{opacity:1;transform:scale(1.5)}}
+@keyframes bl{50%{opacity:0}}
+
+@keyframes c0{0%,0.00%{width:0}7.00%,20.00%{width:66.0px}23.75%,100%{width:0}}
+@keyframes k0{0%,0.00%{transform:translateX(0)}7.00%,20.00%{transform:translateX(66.0px)}23.75%,100%{transform:translateX(0)}}
+@keyframes v0{0%,0.00%{opacity:0}0.00%,23.75%{opacity:1}25.00%,100%{opacity:0}}
+#c0{animation:c0 12s steps(5,end) infinite}
+#k0{animation:k0 12s steps(5,end) infinite}
+#g0{animation:v0 12s linear infinite;opacity:0}
+@keyframes c1{0%,25.00%{width:0}32.00%,45.00%{width:132.0px}48.75%,100%{width:0}}
+@keyframes k1{0%,25.00%{transform:translateX(0)}32.00%,45.00%{transform:translateX(132.0px)}48.75%,100%{transform:translateX(0)}}
+@keyframes v1{0%,24.99%{opacity:0}25.00%,48.75%{opacity:1}50.00%,100%{opacity:0}}
+#c1{animation:c1 12s steps(10,end) infinite}
+#k1{animation:k1 12s steps(10,end) infinite}
+#g1{animation:v1 12s linear infinite;opacity:0}
+@keyframes c2{0%,50.00%{width:0}57.00%,70.00%{width:105.6px}73.75%,100%{width:0}}
+@keyframes k2{0%,50.00%{transform:translateX(0)}57.00%,70.00%{transform:translateX(105.6px)}73.75%,100%{transform:translateX(0)}}
+@keyframes v2{0%,49.99%{opacity:0}50.00%,73.75%{opacity:1}75.00%,100%{opacity:0}}
+#c2{animation:c2 12s steps(8,end) infinite}
+#k2{animation:k2 12s steps(8,end) infinite}
+#g2{animation:v2 12s linear infinite;opacity:0}
+@keyframes c3{0%,75.00%{width:0}82.00%,95.00%{width:171.6px}98.75%,100%{width:0}}
+@keyframes k3{0%,75.00%{transform:translateX(0)}82.00%,95.00%{transform:translateX(171.6px)}98.75%,100%{transform:translateX(0)}}
+@keyframes v3{0%,74.99%{opacity:0}75.00%,98.75%{opacity:1}100.00%,100%{opacity:0}}
+#c3{animation:c3 12s steps(13,end) infinite}
+#k3{animation:k3 12s steps(13,end) infinite}
+#g3{animation:v3 12s linear infinite;opacity:0}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}.rule{stroke-dashoffset:0}.name,.prompt{opacity:1}#g0{opacity:1}#c0{width:66px}#k0{display:none}}
+</style>
+<defs><linearGradient id="grad" gradientUnits="userSpaceOnUse" x1="52" y1="0" x2="472" y2="0"><stop offset="0" style="stop-color:var(--accent)"/><stop offset="1" style="stop-color:var(--accent2);stop-opacity:0"/></linearGradient></defs>
+<circle class="dot" cx="56" cy="120" r="4"/>
+<text x="52" y="82" class="name">Rachan</text>
+<line class="rule" x1="52" y1="94" x2="472" y2="94"/>
+<text x="66" y="126" class="prompt">&#8250;</text>
+  <g id="g0">
+    <clipPath id="p0"><rect id="c0" x="88" y="104" height="30" width="0"/></clipPath>
+    <text x="88" y="126" class="word" clip-path="url(#p0)">linux</text>
+    <rect id="k0" x="89" y="107" width="2" height="22" class="cursor"/>
+  </g>
+  <g id="g1">
+    <clipPath id="p1"><rect id="c1" x="88" y="104" height="30" width="0"/></clipPath>
+    <text x="88" y="126" class="word" clip-path="url(#p1)">networking</text>
+    <rect id="k1" x="89" y="107" width="2" height="22" class="cursor"/>
+  </g>
+  <g id="g2">
+    <clipPath id="p2"><rect id="c2" x="88" y="104" height="30" width="0"/></clipPath>
+    <text x="88" y="126" class="word" clip-path="url(#p2)">security</text>
+    <rect id="k2" x="89" y="107" width="2" height="22" class="cursor"/>
+  </g>
+  <g id="g3">
+    <clipPath id="p3"><rect id="c3" x="88" y="104" height="30" width="0"/></clipPath>
+    <text x="88" y="126" class="word" clip-path="url(#p3)">python &amp; bash</text>
+    <rect id="k3" x="89" y="107" width="2" height="22" class="cursor"/>
+  </g>
+</svg>

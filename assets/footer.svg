@@ -1,0 +1,12 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="900" height="40" viewBox="0 0 900 40" role="presentation">
+<style>
+:root{--accent:#3fb9a8;--line:#30363d}
+@media (prefers-color-scheme: light){:root{--accent:#1a7f74;--line:#d0d7de}}
+.base{stroke:var(--line);stroke-width:1;fill:none}
+.pulse{stroke:var(--accent);stroke-width:1.5;fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:90 810;animation:run 5s linear infinite}
+@keyframes run{from{stroke-dashoffset:90}to{stroke-dashoffset:-810}}
+@media (prefers-reduced-motion: reduce){.pulse{animation:none}}
+</style>
+<path class="base" id="p" d="M0 20H380l8-8 8 16 8-24 8 16 8 0H900"/>
+<path class="pulse" d="M0 20H380l8-8 8 16 8-24 8 16 8 0H900" pathLength="900"/>
+</svg>
